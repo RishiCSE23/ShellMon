@@ -1,4 +1,4 @@
-interval = 1
+interval = 2
 
 cpu_info = {
         'cpu_times':{
